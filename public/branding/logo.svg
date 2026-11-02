@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 355" role="img" aria-label="The Eye">
+  <g fill="#D2FFF1">
+    <rect x="145" y="0" width="44" height="44" rx="15"/>
+    <rect x="242" y="0" width="44" height="44" rx="15"/>
+    <rect x="96" y="51" width="45" height="45" rx="15"/>
+    <rect x="193" y="51" width="45" height="45" rx="15"/>
+    <rect x="290" y="51" width="45" height="45" rx="15"/>
+    <rect x="48" y="103" width="44" height="45" rx="15"/>
+    <rect x="339" y="103" width="44" height="45" rx="15"/>
+    <rect x="0" y="155" width="44" height="45" rx="15"/>
+    <rect x="96" y="155" width="45" height="45" rx="15"/>
+    <rect x="290" y="155" width="45" height="45" rx="15"/>
+    <rect x="387" y="155" width="45" height="45" rx="15"/>
+    <rect x="48" y="207" width="44" height="45" rx="15"/>
+    <rect x="339" y="207" width="44" height="45" rx="15"/>
+    <rect x="96" y="259" width="45" height="45" rx="15"/>
+    <rect x="193" y="259" width="45" height="45" rx="15"/>
+    <rect x="290" y="259" width="45" height="45" rx="15"/>
+    <rect x="145" y="311" width="44" height="44" rx="15"/>
+    <rect x="242" y="311" width="44" height="44" rx="15"/>
+  </g>
+  <g fill="#71FD9F">
+    <rect x="145" y="103" width="44" height="45" rx="15"/>
+    <rect x="242" y="103" width="44" height="45" rx="15"/>
+    <rect x="193" y="155" width="45" height="45" rx="15"/>
+    <rect x="145" y="207" width="44" height="45" rx="15"/>
+    <rect x="242" y="207" width="44" height="45" rx="15"/>
+  </g>
+</svg>
