@@ -17,4 +17,4 @@ Na Vercel, adicione `theeye.henriquecavalcante.com` em **Project Settings → Do
 
 URL da política para o campo **Privacy policy** do Play Console: `https://theeye.henriquecavalcante.com/privacidade/`. Os termos ficam em `https://theeye.henriquecavalcante.com/termos/`. A política também precisa permanecer acessível dentro do aplicativo; o texto no app deve refletir esta página. Reveja as declarações de **Data safety**, permissões, público-alvo e anúncios para a versão efetivamente enviada. O app atual não cria contas, então o requisito de exclusão de conta não se aplica enquanto isso continuar verdadeiro.
 
-Esta política descreve o código atual do repositório. Reavalie o texto se forem adicionados analytics, publicidade, contas, backend, coleta de dados ou SDKs.
+Os documentos foram atualizados em 5 de novembro de 2026 para descrever a câmera, o sensor magnético, a calibração local e o Google Play Services para RA (ARCore). Reavalie o texto e a declaração de Segurança dos dados se forem adicionados analytics, publicidade, contas, backend ou outros SDKs.
